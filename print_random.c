@@ -8,6 +8,9 @@ int main()
 {
 	int a;
 
+	//frggrteg
+	
+
 	/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
 
