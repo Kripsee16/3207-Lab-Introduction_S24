@@ -2,14 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
+ 
+char randchar(void);
 
-
-int main()
+int main(void)
 {
 	int a;
-
-	//frggrteg
-	
 
 	/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
@@ -21,4 +19,5 @@ int main()
 
 	return(0);
 }
+
 
